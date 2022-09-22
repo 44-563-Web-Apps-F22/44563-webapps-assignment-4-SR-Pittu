@@ -6,6 +6,7 @@ h1{
     font-size:larger;
     text-align: center ;
     text-shadow:black;
+    font-style: initial;
 }
 h2{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -93,4 +94,20 @@ h4{
 y:hover {
     font-weight: 600;
     background-color:lightcyan;
-    color:chocolate }
+    color:chocolate 
+}
+table {
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align:center;
+    border-bottom: 1px solid #ddd;
+    width:100px;
+    border: 2px solid #000;
+    
+  }
+ tr:hover {
+    color:chocolate ;
+    background-color:floralwhite}
