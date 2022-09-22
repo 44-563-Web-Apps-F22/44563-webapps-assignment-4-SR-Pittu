@@ -1,0 +1,96 @@
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font :600;
+    font-weight:900;
+    color:darkmagenta;
+    font-size:larger;
+    text-align: center ;
+    text-shadow:black;
+}
+h2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font :500;
+    color:darksalmon;
+    font-weight: bolder;
+    font-size:large;
+    text-align:center;
+    text-shadow:black;   
+}
+h3{
+    font-family:'Times New Roman', Times, serif;
+    font :400;
+    font-weight: bolder;
+    color:black;
+    font-size:medium;
+    text-align:center;
+    text-shadow:black;   
+}
+h4{
+    font-family:'Times New Roman', Times, serif;
+    font :400;
+    font-weight: bolder;
+    color:black;
+    font-size:medium;
+    text-align:center;
+    text-shadow:lavenderblush;   
+}
+.fia{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-size:medium;
+    text-align:left;
+    background-color: bisque;
+}
+.giu{
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-size:medium;
+    text-align:left;
+    background-color: bisque;
+}
+.ant{
+    font-family:'Times New Roman', Times, serif;
+    font :400;
+    color:black;
+    font-size:medium;
+    text-align:left;
+    background-color: bisque;
+}
+.gio{
+    font-family:'Times New Roman', Times, serif;
+    font :400;
+    color:black;
+    font-size:medium;
+    text-align:left;
+    background-color: bisque;
+}   
+.vit{
+    font-family:'Times New Roman', Times, serif;
+    font :400;
+    color:black;
+    font-size:medium;
+    text-align:left;
+    background-color: bisque;
+}
+.chorus{
+    font-family:'Courier New', Courier, monospace;
+    font :900;
+    font-weight: bold;
+    color:black;
+    font-size:medium;
+    text-align:center;
+    background-color:aqua;
+}
+.song{
+    font-family:'Courier New', Courier, monospace;
+    font :900;
+    font-weight: bold;
+    color:black;
+    font-size:medium;
+    text-align:center;
+    background-color:aqua ;
+}
+y:hover {
+    font-weight: 600;
+    background-color:lightcyan;
+    color:chocolate }
