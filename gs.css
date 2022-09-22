@@ -102,16 +102,47 @@ table {
     border-color:darkmagenta;
   }
   
-  th, td {
+  th{
     padding: 8px;
     text-align:center;
-    border-bottom: 1px solid #ddd;
+    border: 1px solid;
     width:100px;
-    border: 2px solid #000;
+    border: 2px solid;
     border-color: blueviolet;
-   color:goldenrod;   
+   color:goldenrod;  
+ 
+  } 
+  tr:nth-child(even) {
+    background-color:lightslategrey;
+  }
+  td {
+    padding: 10px;
+    text-align:center;
+    border: 1px solid;
+    width:100px;
+    border: 2px solid;
+    border-color: blueviolet;
+   color:beige;   
   }
  tr:hover {
     color:indianred;
-    background-color:floralwhite;
+    background-color:violet;
 }
+a:link {
+    color:aqua;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:blueviolet;
+  }
+  
+  /* selected link */
+  a:active {
+    color:brown;
+  }
