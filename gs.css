@@ -98,6 +98,8 @@ y:hover {
 }
 table {
     width: 100%;
+    border: 3px solid;
+    border-color:darkmagenta;
   }
   
   th, td {
@@ -106,8 +108,10 @@ table {
     border-bottom: 1px solid #ddd;
     width:100px;
     border: 2px solid #000;
-    
+    border-color: blueviolet;
+   color:goldenrod;   
   }
  tr:hover {
-    color:chocolate ;
-    background-color:floralwhite}
+    color:indianred;
+    background-color:floralwhite;
+}
